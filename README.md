@@ -1,2 +1,2 @@
-# Graficaci-n-
+# Graficación
 Códigos con raylib
